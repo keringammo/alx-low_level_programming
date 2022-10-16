@@ -1,0 +1,3 @@
+#!bin/bash
+gcc $CFILE -O 3-name.c
+
